@@ -14,7 +14,16 @@
     "customizations": {
         "vscode": {
             "extensions": [
-                "ms-azuretools.vscode-docker"
+                "ms-azuretools.vscode-docker",
+                "redhat.java",
+                "vscjava.vscode-java-debug",
+                "vscjava.vscode-java-dependency",
+                "vscjava.vscode-java-test",
+                "vscjava.vscode-maven",
+                "SonarSource.sonarlint-vscode",
+                "vmware.vscode-boot-dev-pack",
+                "MicroProfile-Community.vscode-microprofile-pack",
+                "redhat.vscode-quarkus"
             ],
             "settings": {
                 "editor.formatOnSave": true,
